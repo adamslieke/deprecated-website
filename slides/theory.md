@@ -576,7 +576,7 @@ __How would you proceed?__
 
 1. Version stuff, but exclude file types that need not to be versioned!
 2. *Draft* pipeline: which *stages* do you need?
-3. Move files in proper directories ([use directory template](http://tilburgsciencehub.com/workflow/dir_structure.zip))
+3. Move files in proper directories ([use directory template](https://tilburgsciencehub.com/building-blocks/collaborate-and-share-your-work/use-github/))
 4. Build pipeline (input, outputs for each file) + test manually
 5. Make `make` work on what you have
 
